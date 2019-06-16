@@ -1,6 +1,6 @@
 import * as React from "react";
 import { render } from "react-dom";
-import Home from "./routes/Home";
+import Home from "./Home";
 
 import "./styles.css";
 
